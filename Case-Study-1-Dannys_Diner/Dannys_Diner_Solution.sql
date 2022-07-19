@@ -3,7 +3,7 @@
 
 -- Author	:	Ruthuparan Prasad
 -- Date		:	19/07/2022
--- Tools		:	PostgreSQL
+-- Tools	:	PostgreSQL
 
 
 -- Creating the tables and inserting values, copied from the case study link
